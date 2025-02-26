@@ -1,0 +1,251 @@
+{
+  "query": "how to learn python",
+  "questions": [
+    {
+      "question": "Is it easy to learn Python?",
+      "snippet": null,
+      "title": "AI Overview",
+      "link": "https://support.google.com/websearch?p=ai_overviews&hl=en",
+      "list": [
+        "Simple syntax: Python uses clear, straightforward keywords and punctuation, making the code easy to understand.  ",
+        "Readability: Python emphasizes code readability with features like indentation to define code blocks, which helps beginners grasp the logic.  ",
+        "Large community and resources: Due to its popularity, there are abundant online tutorials, courses, and documentation available to support learning.  "
+      ],
+      "displayed_link": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJJcyBpdCBlYXN5IHRvIGxlYXJuIFB5dGhvbj8iLCJsayI6IkdocHBjeUJwZENCbFlYTjVJSFJ2SUd4bFlYSnVJSEI1ZEdodmJnIiwiYnMiOiJjLU95NDVMMkxGYklMRkZJVFN5dVZDakpWOGhKVFN6S1V3aW9MTW5JejdPWHVCaGpKQ01sbFlsRlJRRllCWmNMbHh4UXY3RUJVQ0pmSVQ4bkJkT0l4LTVHOGxLeW1kZ1ZRVTBKNDFKM1RzeFQ4RVRScXBCWW9tQmlxcENZbDZLUW5scWlrS2lRbFo5a0x6R1Z5MGhEU2kwWnFEb1R4UXhzcXJtY3VHU3htSnVacDJDc2tKSllXV3d2Y2RYVFNFNUtCb3RwY0RVQ2pBQSIsImlkIjoiZmNfZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTRfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJJcyBpdCBlYXN5IHRvIGxlYXJuIFB5dGhvbj8iLCJsayI6IkdocHBjeUJwZENCbFlYTjVJSFJ2SUd4bFlYSnVJSEI1ZEdodmJnIiwiYnMiOiJjLU95NDVMMkxGYklMRkZJVFN5dVZDakpWOGhKVFN6S1V3aW9MTW5JejdPWHVCaGpKQ01sbFlsRlJRRllCWmNMbHh4UXY3RUJVQ0pmSVQ4bkJkT0l4LTVHOGxLeW1kZ1ZRVTBKNDFKM1RzeFQ4RVRScXBCWW9tQmlxcENZbDZLUW5scWlrS2lRbFo5a0x6R1Z5MGhEU2kwWnFEb1R4UXhzcXJtY3VHU3htSnVacDJDc2tKSllXV3d2Y2RYVFNFNUtCb3RwY0RVQ2pBQSIsImlkIjoiZmNfZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTRfMSJ9",
+      "depth": 1,
+      "children": [
+        {
+          "question": "Can I teach myself Python?",
+          "snippet": null,
+          "title": "AI Overview",
+          "link": "https://support.google.com/websearch?p=ai_overviews&hl=en",
+          "list": [
+            "Accessibility: Many free online tutorials, courses, and interactive platforms are available to learn Python from scratch.  ",
+            "Simple Syntax: Python has a clear and readable syntax, making it easier to understand compared to other languages.  ",
+            "Large Community: If you get stuck, there are numerous online forums and communities where you can ask questions and get help.  ",
+            "Choose a learning platform: Websites: Codecademy, Coursera, edX, W3Schools  YouTube channels: Corey Schafer, freeCodeCamp  Books: \"Python Crash Course\" by Eric Matthes  ",
+            "Websites: Codecademy, Coursera, edX, W3Schools  ",
+            "YouTube channels: Corey Schafer, freeCodeCamp  ",
+            "Books: \"Python Crash Course\" by Eric Matthes  ",
+            "Focus on fundamentals: Variables  Data types  Operators  Conditional statements (if/else)  Loops (for, while)  Functions  ",
+            "Variables  ",
+            "Data types  ",
+            "Operators  ",
+            "Conditional statements (if/else)  ",
+            "Loops (for, while)  ",
+            "Functions  ",
+            "Practice regularly: Work on small coding exercises and projects to apply what you learn  Use online coding platforms to practice and test your code  ",
+            "Work on small coding exercises and projects to apply what you learn  ",
+            "Use online coding platforms to practice and test your code  ",
+            "Join a community: Participate in online forums and discussion groups to ask questions and get feedback  ",
+            "Participate in online forums and discussion groups to ask questions and get feedback  "
+          ],
+          "displayed_link": null,
+          "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4gSSB0ZWFjaCBteXNlbGYgUHl0aG9uPyIsImxrIjoiR2hsallXNGdhU0IwWldGamFDQnRlWE5sYkdZZ2NIbDBhRzl1IiwiYnMiOiJjLU55NEpMMkxGYklMRkZJVFN5dVZDakpWOGhKVFN6S1V3aW9MTW5JejdPWHVCaWp3V2drSXlXVmlVVk5BVmdObHd1WEhOQUVZd09nUkw1Q2ZrNEtwaUdQM1kza3BXUXpzU3VDbWhMR3BlNmNtS2ZnaWFKVkliRkV3Y1JVSVRFdlJTRTl0VVFoVVNFclA4bGVZaXFYa1lhVVdqSlFkU2FLR2RoVWN6bHh5V0l4TnpOUHdWZ2hKYkd5MkY3aXFxZVJuSlFNRnRQZ2FyaHN1S1FnWnBTa0ppWm5LT1JXRnFmbXBNRjl0MGpMU0ZwS0VtSUFpZ0tvenl5NEpJRGhBN1U0djBqQldWc2JGSkNacVVYMkVnZDhqQ1NseElFaFV3Q1hUb1pMQ3pBQ0FBIn0=",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4gSSB0ZWFjaCBteXNlbGYgUHl0aG9uPyIsImxrIjoiR2hsallXNGdhU0IwWldGamFDQnRlWE5sYkdZZ2NIbDBhRzl1IiwiYnMiOiJjLU55NEpMMkxGYklMRkZJVFN5dVZDakpWOGhKVFN6S1V3aW9MTW5JejdPWHVCaWp3V2drSXlXVmlVVk5BVmdObHd1WEhOQUVZd09nUkw1Q2ZrNEtwaUdQM1kza3BXUXpzU3VDbWhMR3BlNmNtS2ZnaWFKVkliRkV3Y1JVSVRFdlJTRTl0VVFoVVNFclA4bGVZaXFYa1lhVVdqSlFkU2FLR2RoVWN6bHh5V0l4TnpOUHdWZ2hKYkd5MkY3aXFxZVJuSlFNRnRQZ2FyaHN1S1FnWnBTa0ppWm5LT1JXRnFmbXBNRjl0MGpMU0ZwS0VtSUFpZ0tvenl5NEpJRGhBN1U0djBqQldWc2JGSkNacVVYMkVnZDhqQ1NseElFaFV3Q1hUb1pMQ3pBQ0FBIn0%3D",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "question": "Is Python or C++ easier?",
+          "snippet": "C++ is a bit complex when it comes to the simplicity of language, and it has more syntax rules as well as program conventions. Python is a friendly language. It has a simple and easy-to-learn syntax. Moreover, its features are easy to use, which allows you to write short and readable code.",
+          "title": "C++ vs Python: Overview, Uses & Key Differences - Simplilearn.com",
+          "date": "Jan 25, 2025",
+          "link": "https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-vs-python#:~:text=C%2B%2B%20is%20a%20bit%20complex,as%20well%20as%20program%20conventions.&text=Python%20is%20a%20friendly%20language,write%20short%20and%20readable%20code.",
+          "displayed_link": "https://www.simplilearn.com › tutorials › cpp-tutorial › c...",
+          "source_logo": "https://serpapi.com/searches/67bfa44a7b7539048e58b231/images/aaf62093a7bf622b5e65e920e673e9916cae58ea575a3fe96ca1248d37e45a1f.png",
+          "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJJcyBQeXRob24gb3IgQysrIGVhc2llcj8iLCJsayI6IkdoZHBjeUJ3ZVhSb2IyNGdiM0lnWXlzcklHVmhjMmxsY2ciLCJicyI6ImMtTnk0SkwyTEZiSUxGRklUU3l1VkNqSlY4aEpUU3pLVXdpb0xNbkl6N09YdUJpandXZ2tJeVdWaVVWTkFWZ05sd3VYSE5BRVl3T2dSTDVDZms0S3BpR1AzWTNrcFdRenNTdUNtaExHcGU2Y21LZmdpYUpWSWJGRXdjUlVJVEV2UlNFOXRVUWhVU0VyUDhsZVlpcVhrWWFVV2pKUWRTYUtHZGhVY3pseHlXSXhOek5Qd1ZnaEpiR3kyRjdpcXFlUm5KUU1GdFBnYXJoc3VLUWdacFNrSmlabktPUldGcWZtcE1GOXQwakxTRnBLRW1JQWlnS296eXk0SklEaEE3VTR2MGpCV1ZzYkZKQ1pxVVgyRWdkOGpDU2x4SUVoVXdDWFRvWkxDekFDQUEifQ==",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJJcyBQeXRob24gb3IgQysrIGVhc2llcj8iLCJsayI6IkdoZHBjeUJ3ZVhSb2IyNGdiM0lnWXlzcklHVmhjMmxsY2ciLCJicyI6ImMtTnk0SkwyTEZiSUxGRklUU3l1VkNqSlY4aEpUU3pLVXdpb0xNbkl6N09YdUJpandXZ2tJeVdWaVVWTkFWZ05sd3VYSE5BRVl3T2dSTDVDZms0S3BpR1AzWTNrcFdRenNTdUNtaExHcGU2Y21LZmdpYUpWSWJGRXdjUlVJVEV2UlNFOXRVUWhVU0VyUDhsZVlpcVhrWWFVV2pKUWRTYUtHZGhVY3pseHlXSXhOek5Qd1ZnaEpiR3kyRjdpcXFlUm5KUU1GdFBnYXJoc3VLUWdacFNrSmlabktPUldGcWZtcE1GOXQwakxTRnBLRW1JQWlnS296eXk0SklEaEE3VTR2MGpCV1ZzYkZKQ1pxVVgyRWdkOGpDU2x4SUVoVXdDWFRvWkxDekFDQUEifQ%3D%3D",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "question": "Is 30 too old to learn Python?",
+      "snippet": "Although some people wonder whether they are too old to master Python, the truth is that you can learn the popular programming language at any age. Many instructors report that thirty-something students are among their best learners. In many ways, learning Python when you are thirty-plus is the perfect time.",
+      "title": "Is 30 Too Old to Learn Python? - Noble Desktop",
+      "link": "https://www.nobledesktop.com/learn/python/too-old-to-learn-python#:~:text=Although%20some%20people%20wonder%20whether,plus%20is%20the%20perfect%20time.",
+      "displayed_link": "https://www.nobledesktop.com › learn › too-old-to-learn...",
+      "source_logo": "https://serpapi.com/searches/67bfa3745065eebe1b519cb5/images/1f3d8cfcfa938f10a520f1ec88c35b2d7ada746cb534d8a0bdf75e50e3e58a50.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJJcyAzMCB0b28gb2xkIHRvIGxlYXJuIFB5dGhvbj8iLCJsayI6IkdoMXBjeUF6TUNCMGIyOGdiMnhrSUhSdklHeGxZWEp1SUhCNWRHaHZiZyIsImJzIjoiYy1PeTQ1TDJMRmJJTEZGSVRTeXVWQ2pKVjhoSlRTektVd2lvTE1uSXo3T1h1QmhqSkNNbGxZbEZSUUZZQlpjTGx4eFF2N0VCVUNKZklUOG5CZE9JeC01RzhsS3ltZGdWUVUwSjQxSjNUc3hUOEVUUnFwQllvbUJpcXBDWWw2S1FubHFpa0tpUWxaOWtMekdWeTBoRFNpMFpxRG9UeFF4c3FybWN1R1N4bUp1WnAyQ3NrSkpZV1d3dmNkWFRTRTVLQm90cGNEVUNqQUEiLCJpZCI6ImZjX2VxT19aN25TRTdXNmhiSVB4OUdGc0E0XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJJcyAzMCB0b28gb2xkIHRvIGxlYXJuIFB5dGhvbj8iLCJsayI6IkdoMXBjeUF6TUNCMGIyOGdiMnhrSUhSdklHeGxZWEp1SUhCNWRHaHZiZyIsImJzIjoiYy1PeTQ1TDJMRmJJTEZGSVRTeXVWQ2pKVjhoSlRTektVd2lvTE1uSXo3T1h1QmhqSkNNbGxZbEZSUUZZQlpjTGx4eFF2N0VCVUNKZklUOG5CZE9JeC01RzhsS3ltZGdWUVUwSjQxSjNUc3hUOEVUUnFwQllvbUJpcXBDWWw2S1FubHFpa0tpUWxaOWtMekdWeTBoRFNpMFpxRG9UeFF4c3FybWN1R1N4bUp1WnAyQ3NrSkpZV1d3dmNkWFRTRTVLQm90cGNEVUNqQUEiLCJpZCI6ImZjX2VxT19aN25TRTdXNmhiSVB4OUdGc0E0XzEifQ%3D%3D",
+      "depth": 1,
+      "children": [
+        {
+          "question": "Can you master Python in 3 months?",
+          "snippet": "In general, it takes around two to six months to learn the fundamentals of Python. But you can learn enough to write your first short program in a matter of minutes. Developing mastery of Python's vast array of libraries can take months or years.",
+          "title": "How Long Does it Take to Learn Python? (+ Tips for Learning)",
+          "date": "Jan 21, 2025",
+          "link": "https://www.coursera.org/articles/how-long-does-it-take-to-learn-python-tips-for-learning#:~:text=In%20general%2C%20it%20takes%20around,can%20take%20months%20or%20years.",
+          "displayed_link": "https://www.coursera.org › articles › how-long-does-it-ta...",
+          "source_logo": "https://serpapi.com/searches/67bfa44fed8456d1dd04e70f/images/101f2a29a8adf74d3daea22312f1231a5e78b59115b3f8c149ea253955fd0109.png",
+          "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4geW91IG1hc3RlciBQeXRob24gaW4gMyBtb250aHM/IiwibGsiOiJHaUZqWVc0Z2VXOTFJRzFoYzNSbGNpQndlWFJvYjI0Z2FXNGdNeUJ0YjI1MGFITSIsImJzIjoiYzIzT01VN0RRQkNGWWFXZGluSlprdkFBQ1ZKR0cyZ29zQVFTeUFvRkZSWE5ZRnZKb21RbjhnNkZEd0luNEVJVW5JQ0xZQktFWkhuci1lZlRveXM2eUNPOG91TFlRQVdyaXV1QWgwYVhFakx6LWVTRzF2cEVzZGtXZEV2ajluODJiUThDV1pWOTR2dHVNbkNIZHVUVDJaX3pTR2MzSEpCM25zR0s4d3R3S0xHb0ZJd1hlYzdNRzdtSlBTM2EybmVNVkUzWE5FcTRQbUNHa3B1WW1hX2NqZTB3b2YwM2RFX0h2MFlqcjFoejFLcnVNR3NKdW15aGo3azdzVWRGTjl6MFFycWtfZDJpcUZ3ckNpbDlXR3kzVHpQekxzNWFzMXZUdi04TmZnQSJ9",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4geW91IG1hc3RlciBQeXRob24gaW4gMyBtb250aHM%2FIiwibGsiOiJHaUZqWVc0Z2VXOTFJRzFoYzNSbGNpQndlWFJvYjI0Z2FXNGdNeUJ0YjI1MGFITSIsImJzIjoiYzIzT01VN0RRQkNGWWFXZGluSlprdkFBQ1ZKR0cyZ29zQVFTeUFvRkZSWE5ZRnZKb21RbjhnNkZEd0luNEVJVW5JQ0xZQktFWkhuci1lZlRveXM2eUNPOG91TFlRQVdyaXV1QWgwYVhFakx6LWVTRzF2cEVzZGtXZEV2ajluODJiUThDV1pWOTR2dHVNbkNIZHVUVDJaX3pTR2MzSEpCM25zR0s4d3R3S0xHb0ZJd1hlYzdNRzdtSlBTM2EybmVNVkUzWE5FcTRQbUNHa3B1WW1hX2NqZTB3b2YwM2RFX0h2MFlqcjFoejFLcnVNR3NKdW15aGo3azdzVWRGTjl6MFFycWtfZDJpcUZ3ckNpbDlXR3kzVHpQekxzNWFzMXZUdi04TmZnQSJ9",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "question": "Can I start coding at 40?",
+          "snippet": "It's a common misconception that you have to start learning programming at a young age to be successful in the field. However, this couldn't be further from the truth! Age is just a number, and it's never too late to learn something new and pursue a passion.",
+          "title": "Can I learn programming if I am over 40s? | by Raffaele Garofalo | Medium",
+          "date": "Feb 14, 2023",
+          "link": "https://raffaeu.medium.com/can-i-learn-programming-if-i-am-over-40s-117325a724d3#:~:text=It's%20a%20common%20misconception%20that,new%20and%20pursue%20a%20passion.",
+          "displayed_link": "https://raffaeu.medium.com › ...",
+          "source_logo": "https://serpapi.com/searches/67bfa44fed8456d1dd04e70f/images/101f2a29a8adf74d3daea22312f1231a3a82440e46c59bcd087e1e49e31b2c11.png",
+          "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4gSSBzdGFydCBjb2RpbmcgYXQgNDA/IiwibGsiOiJHaGhqWVc0Z2FTQnpkR0Z5ZENCamIyUnBibWNnWVhRZ05EQSIsImJzIjoiYzIzT01VN0RRQkNGWWFXZGluSlprdkFBQ1ZKR0cyZ29zQVFTeUFvRkZSWE5ZRnZKb21RbjhnNkZEd0luNEVJVW5JQ0xZQktFWkhuci1lZlRveXM2eUNPOG91TFlRQVdyaXV1QWgwYVhFakx6LWVTRzF2cEVzZGtXZEV2ajluODJiUThDV1pWOTR2dHVNbkNIZHVUVDJaX3pTR2MzSEpCM25zR0s4d3R3S0xHb0ZJd1hlYzdNRzdtSlBTM2EybmVNVkUzWE5FcTRQbUNHa3B1WW1hX2NqZTB3b2YwM2RFX0h2MFlqcjFoejFLcnVNR3NKdW15aGo3azdzVWRGTjl6MFFycWtfZDJpcUZ3ckNpbDlXR3kzVHpQekxzNWFzMXZUdi04TmZnQSJ9",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4gSSBzdGFydCBjb2RpbmcgYXQgNDA%2FIiwibGsiOiJHaGhqWVc0Z2FTQnpkR0Z5ZENCamIyUnBibWNnWVhRZ05EQSIsImJzIjoiYzIzT01VN0RRQkNGWWFXZGluSlprdkFBQ1ZKR0cyZ29zQVFTeUFvRkZSWE5ZRnZKb21RbjhnNkZEd0luNEVJVW5JQ0xZQktFWkhuci1lZlRveXM2eUNPOG91TFlRQVdyaXV1QWgwYVhFakx6LWVTRzF2cEVzZGtXZEV2ajluODJiUThDV1pWOTR2dHVNbkNIZHVUVDJaX3pTR2MzSEpCM25zR0s4d3R3S0xHb0ZJd1hlYzdNRzdtSlBTM2EybmVNVkUzWE5FcTRQbUNHa3B1WW1hX2NqZTB3b2YwM2RFX0h2MFlqcjFoejFLcnVNR3NKdW15aGo3azdzVWRGTjl6MFFycWtfZDJpcUZ3ckNpbDlXR3kzVHpQekxzNWFzMXZUdi04TmZnQSJ9",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "question": "Can I learn Python at 45 and get a job?",
+      "snippet": "Yes, it is definitely possible to learn Python at the age of 45 and get a job. Age should not be a barrier to learning a new skill or changing careers. Python is a versatile and widely-used programming language, and there are many job opportunities available for those with Python skills.",
+      "title": "Can I learn Python at 45 and get a job? - Quora",
+      "date": "Oct 23, 2017",
+      "link": "https://www.quora.com/Can-I-learn-Python-at-45-and-get-a-job",
+      "displayed_link": "https://www.quora.com › Can-I-learn-Python-at-45-and-...",
+      "source_logo": null,
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4gSSBsZWFybiBQeXRob24gYXQgNDUgYW5kIGdldCBhIGpvYj8iLCJsayI6IkdpWmpZVzRnYVNCc1pXRnliaUJ3ZVhSb2IyNGdZWFFnTkRVZ1lXNWtJR2RsZENCaElHcHZZZyIsImJzIjoiYy1PeTQ1TDJMRmJJTEZGSVRTeXVWQ2pKVjhoSlRTektVd2lvTE1uSXo3T1h1QmhqSkNNbGxZbEZSUUZZQlpjTGx4eFF2N0VCVUNKZklUOG5CZE9JeC01RzhsS3ltZGdWUVUwSjQxSjNUc3hUOEVUUnFwQllvbUJpcXBDWWw2S1FubHFpa0tpUWxaOWtMekdWeTBoRFNpMFpxRG9UeFF4c3FybWN1R1N4bUp1WnAyQ3NrSkpZV1d3dmNkWFRTRTVLQm90cGNEVUNqQUEiLCJpZCI6ImZjX2VxT19aN25TRTdXNmhiSVB4OUdGc0E0XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4gSSBsZWFybiBQeXRob24gYXQgNDUgYW5kIGdldCBhIGpvYj8iLCJsayI6IkdpWmpZVzRnYVNCc1pXRnliaUJ3ZVhSb2IyNGdZWFFnTkRVZ1lXNWtJR2RsZENCaElHcHZZZyIsImJzIjoiYy1PeTQ1TDJMRmJJTEZGSVRTeXVWQ2pKVjhoSlRTektVd2lvTE1uSXo3T1h1QmhqSkNNbGxZbEZSUUZZQlpjTGx4eFF2N0VCVUNKZklUOG5CZE9JeC01RzhsS3ltZGdWUVUwSjQxSjNUc3hUOEVUUnFwQllvbUJpcXBDWWw2S1FubHFpa0tpUWxaOWtMekdWeTBoRFNpMFpxRG9UeFF4c3FybWN1R1N4bUp1WnAyQ3NrSkpZV1d3dmNkWFRTRTVLQm90cGNEVUNqQUEiLCJpZCI6ImZjX2VxT19aN25TRTdXNmhiSVB4OUdGc0E0XzEifQ%3D%3D",
+      "depth": 1,
+      "children": [
+        {
+          "question": "Is Python still worth learning?",
+          "snippet": null,
+          "title": "AI Overview",
+          "link": "https://support.google.com/websearch?p=ai_overviews&hl=en",
+          "list": [
+            "Wide Applicability: Python is used in diverse fields like data analysis, automation, web development, AI, and scientific computing, providing a broad range of potential applications.  ",
+            "Beginner Friendly: Python's simple syntax and readability make it a great entry point for new programmers, allowing them to focus on problem-solving rather than complex language rules.  ",
+            "Large Community and Ecosystem: Python has a vast community of developers and a rich collection of libraries and frameworks, providing ample support and resources for learning and project development.  ",
+            "High Job Demand: Professionals with Python skills are in high demand across various industries, leading to good career prospects.  "
+          ],
+          "displayed_link": null,
+          "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJJcyBQeXRob24gc3RpbGwgd29ydGggbGVhcm5pbmc/IiwibGsiOiJHaDVwY3lCd2VYUm9iMjRnYzNScGJHd2dkMjl5ZEdnZ2JHVmhjbTVwYm1jIiwiYnMiOiJjM1dQdjRyQ1FCeUVzZjBWWWhuV0dLZFN5MlBWOWdKM29nUWJTd3ViMVFSZFdYYUQyVVB5SUQ2WWhVX2dLOWhjNThZX0IzSnJQZDk4ek5Bbk5aTUMwaUlUUlFscm9ES3gwNWlWZG1OMEhCd1hQR1JNZW9qOFJ0Q0lJdGZ2ZjdqQXdLajB2LUk4NFczV2tuN29ZWmxUOTF0b0pDOVZDSXZCRUVLbldHY1dBbHV6aklNRDlXcTh4em9yeDhzWGk0LW5MMnA1ekZLamoxU1VSUnljRWg2eDBHUDdZMmhNYmZmeFVTMnNWQXA3czdPYk95XzFPZzUtcHh3c2NpZno5MVRscWJZODN5bWpzOXZTMHZ3ODMxM3FsYWRhazctbEdyVXIifQ==",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJJcyBQeXRob24gc3RpbGwgd29ydGggbGVhcm5pbmc%2FIiwibGsiOiJHaDVwY3lCd2VYUm9iMjRnYzNScGJHd2dkMjl5ZEdnZ2JHVmhjbTVwYm1jIiwiYnMiOiJjM1dQdjRyQ1FCeUVzZjBWWWhuV0dLZFN5MlBWOWdKM29nUWJTd3ViMVFSZFdYYUQyVVB5SUQ2WWhVX2dLOWhjNThZX0IzSnJQZDk4ek5Bbk5aTUMwaUlUUlFscm9ES3gwNWlWZG1OMEhCd1hQR1JNZW9qOFJ0Q0lJdGZ2ZjdqQXdLajB2LUk4NFczV2tuN29ZWmxUOTF0b0pDOVZDSXZCRUVLbldHY1dBbHV6aklNRDlXcTh4em9yeDhzWGk0LW5MMnA1ekZLamoxU1VSUnljRWg2eDBHUDdZMmhNYmZmeFVTMnNWQXA3czdPYk95XzFPZzUtcHh3c2NpZno5MVRscWJZODN5bWpzOXZTMHZ3ODMxM3FsYWRhazctbEdyVXIifQ%3D%3D",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "question": "Can Python alone get you a job?",
+          "snippet": "No, Python alone is not enough to get a job, but knowing python basics and other soft skills and a good educational background certainly help you. So, what else do you need to do to get a job after learning Python? Here are the top five things you must be aware of to secure a job.",
+          "title": "Is Learning Python Enough to Get a Job? - LinkedIn",
+          "date": "Feb 8, 2023",
+          "link": "https://www.linkedin.com/pulse/learning-python-enough-get-job-rose-britney#:~:text=No%2C%20Python%20alone%20is%20not,of%20to%20secure%20a%20job.",
+          "displayed_link": "https://www.linkedin.com › pulse › learning-python-eno...",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBp8d-uehFy6b8yFzsvCtnz7fs2R12q07ldiEopXowTg&s",
+          "source_logo": "https://serpapi.com/searches/67bfa452e2c54f11b5ffc863/images/f60f8dfdbcb7050f644efba37e30a8216bc78d282045bfdbf7aa811c7cab616e.png",
+          "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4gUHl0aG9uIGFsb25lIGdldCB5b3UgYSBqb2I/IiwibGsiOiJHaDVqWVc0Z2NIbDBhRzl1SUdGc2IyNWxJR2RsZENCNWIzVWdZU0JxYjJJIiwiYnMiOiJjM1dQdjRyQ1FCeUVzZjBWWWhuV0dLZFN5MlBWOWdKM29nUWJTd3ViMVFSZFdYYUQyVVB5SUQ2WWhVX2dLOWhjNThZX0IzSnJQZDk4ek5Bbk5aTUMwaUlUUlFscm9ES3gwNWlWZG1OMEhCd1hQR1JNZW9qOFJ0Q0lJdGZ2ZjdqQXdLajB2LUk4NFczV2tuN29ZWmxUOTF0b0pDOVZDSXZCRUVLbldHY1dBbHV6aklNRDlXcTh4em9yeDhzWGk0LW5MMnA1ekZLamoxU1VSUnljRWg2eDBHUDdZMmhNYmZmeFVTMnNWQXA3czdPYk95XzFPZzUtcHh3c2NpZno5MVRscWJZODN5bWpzOXZTMHZ3ODMxM3FsYWRhazctbEdyVXIifQ==",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4gUHl0aG9uIGFsb25lIGdldCB5b3UgYSBqb2I%2FIiwibGsiOiJHaDVqWVc0Z2NIbDBhRzl1SUdGc2IyNWxJR2RsZENCNWIzVWdZU0JxYjJJIiwiYnMiOiJjM1dQdjRyQ1FCeUVzZjBWWWhuV0dLZFN5MlBWOWdKM29nUWJTd3ViMVFSZFdYYUQyVVB5SUQ2WWhVX2dLOWhjNThZX0IzSnJQZDk4ek5Bbk5aTUMwaUlUUlFscm9ES3gwNWlWZG1OMEhCd1hQR1JNZW9qOFJ0Q0lJdGZ2ZjdqQXdLajB2LUk4NFczV2tuN29ZWmxUOTF0b0pDOVZDSXZCRUVLbldHY1dBbHV6aklNRDlXcTh4em9yeDhzWGk0LW5MMnA1ekZLamoxU1VSUnljRWg2eDBHUDdZMmhNYmZmeFVTMnNWQXA3czdPYk95XzFPZzUtcHh3c2NpZno5MVRscWJZODN5bWpzOXZTMHZ3ODMxM3FsYWRhazctbEdyVXIifQ%3D%3D",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    },
+    {
+      "question": "Can I learn Python in 3 days?",
+      "snippet": "If you're looking for a general answer, here it is: Learning Python basics may only take a few weeks. However, if you're pursuing a career as a programmer or data scientist, you can expect it to take 4 to 12 months to learn enough advanced Python to be job-ready.",
+      "title": "Learn Python (Step-By-Step) - Dataquest",
+      "date": "Jan 8, 2025",
+      "link": "https://www.dataquest.io/blog/learn-python-the-right-way/#:~:text=If%20you're%20looking%20for,Python%20to%20be%20job%2Dready.",
+      "displayed_link": "https://www.dataquest.io › learn-python-the-right-way",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4gSSBsZWFybiBQeXRob24gaW4gMyBkYXlzPyIsImxrIjoiR2h4allXNGdhU0JzWldGeWJpQndlWFJvYjI0Z2FXNGdNeUJrWVhseiIsImJzIjoiYy1PeTQ1TDJMRmJJTEZGSVRTeXVWQ2pKVjhoSlRTektVd2lvTE1uSXo3T1h1QmhqSkNNbGxZbEZSUUZZQlpjTGx4eFF2N0VCVUNKZklUOG5CZE9JeC01RzhsS3ltZGdWUVUwSjQxSjNUc3hUOEVUUnFwQllvbUJpcXBDWWw2S1FubHFpa0tpUWxaOWtMekdWeTBoRFNpMFpxRG9UeFF4c3FybWN1R1N4bUp1WnAyQ3NrSkpZV1d3dmNkWFRTRTVLQm90cGNEVUNqQUEiLCJpZCI6ImZjX2VxT19aN25TRTdXNmhiSVB4OUdGc0E0XzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4gSSBsZWFybiBQeXRob24gaW4gMyBkYXlzPyIsImxrIjoiR2h4allXNGdhU0JzWldGeWJpQndlWFJvYjI0Z2FXNGdNeUJrWVhseiIsImJzIjoiYy1PeTQ1TDJMRmJJTEZGSVRTeXVWQ2pKVjhoSlRTektVd2lvTE1uSXo3T1h1QmhqSkNNbGxZbEZSUUZZQlpjTGx4eFF2N0VCVUNKZklUOG5CZE9JeC01RzhsS3ltZGdWUVUwSjQxSjNUc3hUOEVUUnFwQllvbUJpcXBDWWw2S1FubHFpa0tpUWxaOWtMekdWeTBoRFNpMFpxRG9UeFF4c3FybWN1R1N4bUp1WnAyQ3NrSkpZV1d3dmNkWFRTRTVLQm90cGNEVUNqQUEiLCJpZCI6ImZjX2VxT19aN25TRTdXNmhiSVB4OUdGc0E0XzEifQ%3D%3D",
+      "depth": 1,
+      "children": [
+        {
+          "question": "Can I teach myself Python?",
+          "snippet": null,
+          "title": "AI Overview",
+          "link": "https://support.google.com/websearch?p=ai_overviews&hl=en",
+          "list": [
+            "Accessibility: Many free online tutorials, courses, and interactive platforms are available to learn Python from scratch.  ",
+            "Simple Syntax: Python has a clear and readable syntax, making it easier to understand compared to other languages.  ",
+            "Large Community: If you get stuck, there are numerous online forums and communities where you can ask questions and get help.  ",
+            "Choose a learning platform: Websites: Codecademy, Coursera, edX, W3Schools  YouTube channels: Corey Schafer, freeCodeCamp  Books: \"Python Crash Course\" by Eric Matthes  ",
+            "Websites: Codecademy, Coursera, edX, W3Schools  ",
+            "YouTube channels: Corey Schafer, freeCodeCamp  ",
+            "Books: \"Python Crash Course\" by Eric Matthes  ",
+            "Focus on fundamentals: Variables  Data types  Operators  Conditional statements (if/else)  Loops (for, while)  Functions  ",
+            "Variables  ",
+            "Data types  ",
+            "Operators  ",
+            "Conditional statements (if/else)  ",
+            "Loops (for, while)  ",
+            "Functions  ",
+            "Practice regularly: Work on small coding exercises and projects to apply what you learn  Use online coding platforms to practice and test your code  ",
+            "Work on small coding exercises and projects to apply what you learn  ",
+            "Use online coding platforms to practice and test your code  ",
+            "Join a community: Participate in online forums and discussion groups to ask questions and get feedback  ",
+            "Participate in online forums and discussion groups to ask questions and get feedback  "
+          ],
+          "displayed_link": null,
+          "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4gSSB0ZWFjaCBteXNlbGYgUHl0aG9uPyIsImxrIjoiR2hsallXNGdhU0IwWldGamFDQnRlWE5sYkdZZ2NIbDBhRzl1IiwiYnMiOiJjLU95NDVMMkxGYklMRkZJVFN5dVZDakpWOGhKVFN6S1V3aW9MTW5JejdPWHVCaGpKQ01sbFlsRlJRRllCWmNMbHh4UXY3RUJVQ0pmSVQ4bkJkT0l4LTVHOGxLeW1kZ1ZRVTBKNDFKM1RzeFQ4RVRScXBCWW9tQmlxcENZbDZLUW5scWlrS2lRbFo5a0x6R1Z5MGhEU2kwWnFEb1R4UXhzcW9HdWs4VmlibWFlZ3JGQ1NtSmxzYjNFVlU4TlJpTTVLUmtzNXNGVmNkbHdTVUZNS1VsTlRNNVF5SzBzVHMxSmdfdHZrWmFSdEpRa3hBQVVCVkNfQVhVRFF3aHFOVEFNTTFPTEZFb3lnTXFkdGJYdEpRNzRnSFFEUTZjQVUwR3l0cllBSXdBIn0=",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJDYW4gSSB0ZWFjaCBteXNlbGYgUHl0aG9uPyIsImxrIjoiR2hsallXNGdhU0IwWldGamFDQnRlWE5sYkdZZ2NIbDBhRzl1IiwiYnMiOiJjLU95NDVMMkxGYklMRkZJVFN5dVZDakpWOGhKVFN6S1V3aW9MTW5JejdPWHVCaGpKQ01sbFlsRlJRRllCWmNMbHh4UXY3RUJVQ0pmSVQ4bkJkT0l4LTVHOGxLeW1kZ1ZRVTBKNDFKM1RzeFQ4RVRScXBCWW9tQmlxcENZbDZLUW5scWlrS2lRbFo5a0x6R1Z5MGhEU2kwWnFEb1R4UXhzcW9HdWs4VmlibWFlZ3JGQ1NtSmxzYjNFVlU4TlJpTTVLUmtzNXNGVmNkbHdTVUZNS1VsTlRNNVF5SzBzVHMxSmdfdHZrWmFSdEpRa3hBQVVCVkNfQVhVRFF3aHFOVEFNTTFPTEZFb3lnTXFkdGJYdEpRNzRnSFFEUTZjQVUwR3l0cllBSXdBIn0%3D",
+          "depth": 2,
+          "children": []
+        },
+        {
+          "question": "Is Python easier than C++?",
+          "snippet": null,
+          "table": [
+            [
+              "Python",
+              "C++"
+            ],
+            [
+              "Learning curve",
+              "Easier to learn",
+              "Harder to learn"
+            ],
+            [
+              "Syntax",
+              "Clearer and more flexible",
+              "More complex and strict"
+            ],
+            [
+              "Memory management",
+              "Automatic memory management",
+              "Manual memory management"
+            ],
+            [
+              "Use cases",
+              "Software development, web applications, machine learning, AI",
+              "Large-scale projects, low-level hardware programming, game development"
+            ]
+          ],
+          "formatted": {
+            "learning_curve": {
+              "c": "Easier to learn",
+              "python": "Harder to learn"
+            },
+            "syntax": {
+              "c": "Clearer and more flexible",
+              "python": "More complex and strict"
+            },
+            "memory_management": {
+              "c": "Automatic memory management",
+              "python": "Manual memory management"
+            },
+            "use_cases": {
+              "c": "Software development, web applications, machine learning, AI",
+              "python": "Large-scale projects, low-level hardware programming, game development"
+            }
+          },
+          "title": "AI Overview",
+          "link": "https://www.youtube.com/watch?v=bicEbyqYKAk&t=551",
+          "displayed_link": null,
+          "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJJcyBQeXRob24gZWFzaWVyIHRoYW4gQysrPyIsImxrIjoiR2hscGN5QndlWFJvYjI0Z1pXRnphV1Z5SUhSb1lXNGdZeXNyIiwiYnMiOiJjLU95NDVMMkxGYklMRkZJVFN5dVZDakpWOGhKVFN6S1V3aW9MTW5JejdPWHVCaGpKQ01sbFlsRlJRRllCWmNMbHh4UXY3RUJVQ0pmSVQ4bkJkT0l4LTVHOGxLeW1kZ1ZRVTBKNDFKM1RzeFQ4RVRScXBCWW9tQmlxcENZbDZLUW5scWlrS2lRbFo5a0x6R1Z5MGhEU2kwWnFEb1R4UXhzcW9HdWs4VmlibWFlZ3JGQ1NtSmxzYjNFVlU4TlJpTTVLUmtzNXNGVmNkbHdTVUZNS1VsTlRNNVF5SzBzVHMxSmdfdHZrWmFSdEpRa3hBQVVCVkNfQVhVRFF3aHFOVEFNTTFPTEZFb3lnTXFkdGJYdEpRNzRnSFFEUTZjQVUwR3l0cllBSXdBIn0=",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdobVJWTXdXREoyUmxKMGRGVTBUV041WnpCUVlYaGZVbkYwYW1KMmVsRmtORWN6Tm5wUE1YWmFiMlJHTmpReVoxUmljRjl0V0dOM09ESjJTbTF0YW5aRlVGWk9NVGRwU0VvMVFYVlVOMUkwVFdsclRFNDVSMHBIV0V4cVVSSVhaWEZQWDFvM2JsTkZOMWMyYUdKSlVIZzVSMFp6UVRRYUlrRkRSRmhNTkd3MU1XNUtVbFE0YkdwVVdXUjRYMFZuWWpkR2MxSnRSWEJQVUhjIiwiZmN2IjoiMyIsImVpIjoiZXFPX1o3blNFN1c2aGJJUHg5R0ZzQTQiLCJxYyI6IkNoTm9iM2NnZEc4Z2JHVmhjbTRnY0hsMGFHOXVFQUI5bThBVVB3IiwicXVlc3Rpb24iOiJJcyBQeXRob24gZWFzaWVyIHRoYW4gQysrPyIsImxrIjoiR2hscGN5QndlWFJvYjI0Z1pXRnphV1Z5SUhSb1lXNGdZeXNyIiwiYnMiOiJjLU95NDVMMkxGYklMRkZJVFN5dVZDakpWOGhKVFN6S1V3aW9MTW5JejdPWHVCaGpKQ01sbFlsRlJRRllCWmNMbHh4UXY3RUJVQ0pmSVQ4bkJkT0l4LTVHOGxLeW1kZ1ZRVTBKNDFKM1RzeFQ4RVRScXBCWW9tQmlxcENZbDZLUW5scWlrS2lRbFo5a0x6R1Z5MGhEU2kwWnFEb1R4UXhzcW9HdWs4VmlibWFlZ3JGQ1NtSmxzYjNFVlU4TlJpTTVLUmtzNXNGVmNkbHdTVUZNS1VsTlRNNVF5SzBzVHMxSmdfdHZrWmFSdEpRa3hBQVVCVkNfQVhVRFF3aHFOVEFNTTFPTEZFb3lnTXFkdGJYdEpRNzRnSFFEUTZjQVUwR3l0cllBSXdBIn0%3D",
+          "depth": 2,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

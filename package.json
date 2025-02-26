@@ -1,0 +1,29 @@
+{
+  "name": "paa-example",
+  "version": "1.0.0",
+  "description": "A tool to gather insights into People Also Ask (PAA) SERP feature using SerpApi",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "paa": "src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js"
+  },
+  "keywords": [
+    "serpapi",
+    "paa",
+    "people-also-ask",
+    "google-search",
+    "serp"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "serpapi": "^1.1.1",
+    "commander": "^11.0.0",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "ora": "^7.0.1"
+  }
+}
