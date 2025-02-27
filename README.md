@@ -31,6 +31,9 @@ pnpm start search "how to learn javascript" --output custom-filename.json
 
 # Skip confirmation and proceed with search
 pnpm start search "how to learn javascript" --yes
+
+# Force new searches (disable cache)
+pnpm start search "how to learn javascript" --no-cache
 ```
 
 ## API Credit Usage
@@ -44,6 +47,7 @@ The tool provides an estimation of SerpApi credits that may be used:
 - For depth=4+: Credits increase exponentially
 
 Note that cached searches don't consume credits, so actual usage may be lower.
+Using the `--no-cache` option will force new searches and may use more credits.
 
 ## How It Works
 

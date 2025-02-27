@@ -14,13 +14,19 @@ if (!apiKey) {
 /**
  * Perform a Google search using SerpApi
  * @param {string} query The search query
+ * @param {boolean} noCache Whether to force a new search (no cache)
  * @returns {Promise<Object>} The search results
  */
-export async function googleSearch(query) {
+export async function googleSearch(query, noCache = false) {
   const params = {
     q: query,
     api_key: apiKey,
   };
+
+  // Add no_cache parameter if specified
+  if (noCache) {
+    params.no_cache = "true";
+  }
 
   try {
     return await getJson("google", params);
@@ -33,13 +39,19 @@ export async function googleSearch(query) {
 /**
  * Fetch related questions using the Google Related Questions API
  * @param {string} pageToken The page token from a question
+ * @param {boolean} noCache Whether to force a new search (no cache)
  * @returns {Promise<Object>} Related questions
  */
-export async function fetchRelatedQuestions(pageToken) {
+export async function fetchRelatedQuestions(pageToken, noCache = false) {
   const params = {
     next_page_token: pageToken,
     api_key: apiKey,
   };
+
+  // Add no_cache parameter if specified
+  if (noCache) {
+    params.no_cache = "true";
+  }
 
   try {
     return await getJson("google_related_questions", params);

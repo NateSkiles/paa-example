@@ -3,12 +3,13 @@ import { googleSearch, fetchRelatedQuestions } from "./serpapi.js";
 /**
  * Build a tree of PAA questions up to the specified depth
  * @param {string} query The initial search query
- * @param {number} depth The depth to explore
+ * @param {number} maxDepth The depth to explore
+ * @param {boolean} noCache Whether to force new searches (no cache)
  * @returns {Promise<Object>} The question tree
  */
-export async function searchWithDepth(query, maxDepth = 2) {
+export async function searchWithDepth(query, maxDepth = 2, noCache = false) {
   // Initial search
-  const initialResults = await googleSearch(query);
+  const initialResults = await googleSearch(query, noCache);
 
   // Check if there are related questions
   if (
@@ -27,7 +28,7 @@ export async function searchWithDepth(query, maxDepth = 2) {
   // Build the question tree
   return {
     query,
-    questions: await buildQuestionTree(questions, maxDepth, 1),
+    questions: await buildQuestionTree(questions, maxDepth, 1, noCache),
   };
 }
 
@@ -36,9 +37,15 @@ export async function searchWithDepth(query, maxDepth = 2) {
  * @param {Array} questions Array of question objects
  * @param {number} maxDepth Maximum depth to explore
  * @param {number} currentDepth Current depth level
+ * @param {boolean} noCache Whether to force new searches (no cache)
  * @returns {Promise<Array>} Array of questions with their children
  */
-async function buildQuestionTree(questions, maxDepth, currentDepth) {
+async function buildQuestionTree(
+  questions,
+  maxDepth,
+  currentDepth,
+  noCache = false
+) {
   if (currentDepth >= maxDepth) {
     return questions.map((q) => ({
       ...cleanQuestionData(q),
@@ -62,7 +69,10 @@ async function buildQuestionTree(questions, maxDepth, currentDepth) {
 
     try {
       // Fetch related questions for this question
-      const relatedData = await fetchRelatedQuestions(question.next_page_token);
+      const relatedData = await fetchRelatedQuestions(
+        question.next_page_token,
+        noCache
+      );
       let children = [];
 
       if (
@@ -72,7 +82,8 @@ async function buildQuestionTree(questions, maxDepth, currentDepth) {
         children = await buildQuestionTree(
           relatedData.related_questions,
           maxDepth,
-          currentDepth + 1
+          currentDepth + 1,
+          noCache
         );
       }
 

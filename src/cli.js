@@ -89,6 +89,7 @@ program
   .option("-d, --depth <number>", "Depth of related questions to fetch", "2")
   .option("-o, --output <file>", "Output results to JSON file")
   .option("-y, --yes", "Skip confirmation and proceed with search")
+  .option("--no-cache", "Force new searches by setting no_cache=true parameter")
   .action(async (query, options) => {
     const depth = parseInt(options.depth);
 
@@ -106,6 +107,15 @@ program
       console.log(
         `Estimated total: ${chalk.yellow(`~${estimatedCredits} credits`)}`
       );
+
+      if (!options.cache) {
+        console.log(
+          chalk.yellow(
+            "\nWarning: --no-cache option enabled. This will force new searches and may use more credits."
+          )
+        );
+      }
+
       console.log(
         chalk.gray(
           "\nNote: Cached searches don't consume credits. The actual number of credits used"
@@ -130,11 +140,13 @@ program
     }
 
     const spinner = ora(
-      `Searching for ${chalk.cyan(query)} with depth ${chalk.cyan(depth)}`
+      `Searching for ${chalk.cyan(query)} with depth ${chalk.cyan(depth)}${
+        !options.cache ? chalk.yellow(" (no cache)") : ""
+      }`
     ).start();
 
     try {
-      const results = await searchWithDepth(query, depth);
+      const results = await searchWithDepth(query, depth, !options.cache);
       spinner.succeed(
         `Found ${countQuestions(results.questions)} related questions`
       );
