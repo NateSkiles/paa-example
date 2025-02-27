@@ -2,6 +2,8 @@
 
 This tool allows you to gather insights into Google's "People Also Ask" (PAA) SERP feature using SerpApi's Google Search API and Google Related Questions API.
 
+For more information on using this tool to leverage 'People Also Ask' for smarter content strategies, check out my blog post [here](https://serpapi.com/blog/unlocking-seo-insights/).
+
 ## Installation
 
 ```bash
