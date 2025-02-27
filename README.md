@@ -6,7 +6,7 @@ This tool allows you to gather insights into Google's "People Also Ask" (PAA) SE
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/NateSkiles/paa-example
 cd paa-example
 
 # Install dependencies
