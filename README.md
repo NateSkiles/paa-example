@@ -28,7 +28,22 @@ pnpm start search "how to learn javascript" --depth 3
 
 # Output to specific file
 pnpm start search "how to learn javascript" --output custom-filename.json
+
+# Skip confirmation and proceed with search
+pnpm start search "how to learn javascript" --yes
 ```
+
+## API Credit Usage
+
+The tool provides an estimation of SerpApi credits that may be used:
+
+- Initial search: 1 credit
+- Each subsequent "People Also Ask" question fetch: 1 credit
+- For depth=2: Approximately 4-5 credits total
+- For depth=3: Approximately 13-21 credits total
+- For depth=4+: Credits increase exponentially
+
+Note that cached searches don't consume credits, so actual usage may be lower.
 
 ## How It Works
 

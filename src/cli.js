@@ -5,9 +5,46 @@ import fs from "fs/promises";
 import path from "path";
 import { searchWithDepth } from "./index.js";
 import ora from "ora";
+import readline from "readline";
 
 const program = new Command();
 const OUTPUT_DIR = path.join(process.cwd(), "output");
+
+// Create readline interface for user input
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout,
+});
+
+// Prompt for confirmation
+function promptForConfirmation(message) {
+  return new Promise((resolve) => {
+    rl.question(`${message} (y/n): `, (answer) => {
+      resolve(answer.toLowerCase() === "y" || answer.toLowerCase() === "yes");
+    });
+  });
+}
+
+// Estimate search credits required based on depth
+function estimateSearchCredits(depth) {
+  // For depth 1: Initial search only (1 credit)
+  if (depth === 1) return 1;
+
+  // For deeper searches: Initial search + subsequent levels
+  // Average number of questions per search is ~3
+  // Level 1: 1 search
+  // Level 2: ~3 searches (1 per question from level 1)
+  // Level 3: ~9 searches (3 per question from level 2)
+  let totalCredits = 1; // Initial search
+  let questionsAtLevel = 3; // Assuming average of 3 questions initially
+
+  for (let i = 2; i <= depth; i++) {
+    totalCredits += questionsAtLevel;
+    questionsAtLevel *= 3; // Each question spawns ~3 more questions
+  }
+
+  return totalCredits;
+}
 
 // Ensure output directory exists
 async function ensureOutputDirExists() {
@@ -51,12 +88,45 @@ program
   .argument("<query>", "The search query")
   .option("-d, --depth <number>", "Depth of related questions to fetch", "2")
   .option("-o, --output <file>", "Output results to JSON file")
+  .option("-y, --yes", "Skip confirmation and proceed with search")
   .action(async (query, options) => {
     const depth = parseInt(options.depth);
 
     if (isNaN(depth) || depth < 1) {
       console.error(chalk.red("Error: Depth must be a positive number"));
       process.exit(1);
+    }
+
+    // Only show credit estimation if not using --yes flag
+    if (!options.yes) {
+      const estimatedCredits = estimateSearchCredits(depth);
+
+      console.log(chalk.cyan("\nSearch Credit Estimation:"));
+      console.log(`Initial search: ${chalk.yellow("1 credit")}`);
+      console.log(
+        `Estimated total: ${chalk.yellow(`~${estimatedCredits} credits`)}`
+      );
+      console.log(
+        chalk.gray(
+          "\nNote: Cached searches don't consume credits. The actual number of credits used"
+        )
+      );
+      console.log(
+        chalk.gray(
+          "depends on how many questions Google returns for each search. This is just an"
+        )
+      );
+      console.log(chalk.gray("estimation based on average response sizes.\n"));
+
+      const confirmed = await promptForConfirmation(
+        `Do you want to proceed with searching "${query}" at depth ${depth}?`
+      );
+
+      if (!confirmed) {
+        console.log(chalk.yellow("Search cancelled."));
+        rl.close();
+        process.exit(0);
+      }
     }
 
     const spinner = ora(
@@ -80,6 +150,8 @@ program
     } catch (error) {
       spinner.fail(`Error: ${error.message}`);
       process.exit(1);
+    } finally {
+      rl.close();
     }
   });
 
